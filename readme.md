@@ -25,7 +25,7 @@ Manage your tasks efficiently using the terminal — add, update, delete, mark s
 Clone this repository and make the main script executable:
 
 ```bash
-git clone https://github.com/yourusername/task-tracker-cli.git
+git clone git@github.com:hasinur1997/task-tracker-cli.git
 cd task-tracker-cli
 chmod +x task_cli.py
 
