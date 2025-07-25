@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Quick learning",
+    "status": "done",
+    "createdAt": "2025-07-24T22:48:42.601200",
+    "updatedAt": "2025-07-24T23:11:38.727737"
+  },
+  {
+    "id": 3,
+    "description": "Notice update",
+    "status": "in-progress",
+    "createdAt": "2025-07-24T22:53:01.832947",
+    "updatedAt": "2025-07-24T22:53:01.832947"
+  },
+  {
+    "id": 4,
+    "description": "Read news paper",
+    "status": "todo",
+    "createdAt": "2025-07-24T23:37:40.958913",
+    "updatedAt": "2025-07-24T23:37:40.958913"
+  }
+]
